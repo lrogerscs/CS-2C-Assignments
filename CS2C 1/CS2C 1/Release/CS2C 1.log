@@ -1,0 +1,11 @@
+﻿  CS2C 1.cpp
+C:\Users\roger\source\repos\CS2C 1\CS2C 1\CS2C 1.cpp(297,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roger\source\repos\CS2C 1\CS2C 1\CS2C 1.cpp(310,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roger\source\repos\CS2C 1\CS2C 1\CS2C 1.cpp(334,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roger\source\repos\CS2C 1\CS2C 1\CS2C 1.cpp(381,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 398 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CS2C 1.vcxproj -> C:\Users\roger\source\repos\CS2C 1\Release\CS2C 1.exe

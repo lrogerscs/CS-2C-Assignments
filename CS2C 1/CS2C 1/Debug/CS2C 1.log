@@ -1,0 +1,6 @@
+﻿  CS2C 1.cpp
+C:\Users\roger\source\repos\CS2C 1\CS2C 1\CS2C 1.cpp(297,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roger\source\repos\CS2C 1\CS2C 1\CS2C 1.cpp(310,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roger\source\repos\CS2C 1\CS2C 1\CS2C 1.cpp(334,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roger\source\repos\CS2C 1\CS2C 1\CS2C 1.cpp(381,23): warning C4018: '<': signed/unsigned mismatch
+  CS2C 1.vcxproj -> C:\Users\roger\source\repos\CS2C 1\Debug\CS2C 1.exe

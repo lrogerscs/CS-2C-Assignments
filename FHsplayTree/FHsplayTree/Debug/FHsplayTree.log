@@ -1,0 +1,3 @@
+﻿  FHsplayTree.cpp
+C:\Users\roger\source\repos\FHsplayTree\FHsplayTree\FHsplayTree.h(132): warning C4715: 'FHsplayTree<int>::showRoot': not all control paths return a value
+  FHsplayTree.vcxproj -> C:\Users\roger\source\repos\FHsplayTree\Debug\FHsplayTree.exe

@@ -1,0 +1,6 @@
+﻿  CS2C7.cpp
+C:\Users\roger\source\repos\CS2C7\CS2C7\CS2C7.cpp(81,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\roger\source\repos\CS2C7\CS2C7\CS2C7.cpp(94,64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\roger\source\repos\CS2C7\CS2C7\CS2C7.cpp(115,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\roger\source\repos\CS2C7\CS2C7\CS2C7.cpp(119,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS2C7.vcxproj -> C:\Users\roger\source\repos\CS2C7\Debug\CS2C7.exe

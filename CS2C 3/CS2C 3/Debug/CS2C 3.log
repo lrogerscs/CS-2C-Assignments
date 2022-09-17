@@ -1,0 +1,5 @@
+﻿  CS2C 3.cpp
+C:\Users\roger\source\repos\CS2C 3\CS2C 3\CS2C 3.cpp(39,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\roger\source\repos\CS2C 3\CS2C 3\CS2C 3.cpp(47,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\roger\source\repos\CS2C 3\CS2C 3\CS2C 3.cpp(16,12): warning C4101: 'randFrac': unreferenced local variable
+  CS2C 3.vcxproj -> C:\Users\roger\source\repos\CS2C 3\Debug\CS2C 3.exe
